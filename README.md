@@ -1,2 +1,10 @@
-# Generative_Text_Model
-GPT-2 powered text generation app built with Streamlit. Generates human-like paragraphs on any topic with the ability to download the output as a text file.
+# GPT-2 Text Generation
+
+This project demonstrates a simple text generation model using OpenAI's GPT-2 via Hugging Face's Transformers library.
+
+## 🔧 Requirements
+- Python 3.7+
+- torch
+- transformers
+
+Install dependencies:
